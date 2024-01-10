@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Touenou
+- 👋 Hi, I’m @Toueno
 - 👀 I’m interested in tech life, reverse engineering, domotique, IT network
 - 🌱 I’m currently learning Phyton, home automation, networking
 - 💞️ I’m looking to collaborate on all home automation and IT projects with pleasure!
